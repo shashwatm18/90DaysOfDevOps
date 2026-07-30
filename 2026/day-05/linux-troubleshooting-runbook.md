@@ -70,9 +70,7 @@ Shows information about the Linux kernel, architecture, and hostname.
 
 ### My Output
 
-```text
-Paste your output here.
-```
+[!uname-a](2026/day-05/Screenshot from 2026-07-30 21-19-36.png)
 
 ### Observation
 
